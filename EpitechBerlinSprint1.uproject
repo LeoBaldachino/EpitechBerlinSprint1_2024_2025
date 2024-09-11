@@ -11,5 +11,8 @@
 				"Editor"
 			]
 		}
+	],
+	"AdditionalPluginDirectories": [
+		"../../Downloads/IM-for-UE5"
 	]
 }
