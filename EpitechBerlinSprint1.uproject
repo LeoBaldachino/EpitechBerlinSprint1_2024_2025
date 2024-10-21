@@ -24,5 +24,11 @@
 	],
 	"AdditionalPluginDirectories": [
 		"../../Downloads/IM-for-UE5"
+	],
+	"TargetPlatforms": [
+		"Linux",
+		"LinuxArm64",
+		"Mac",
+		"Windows"
 	]
 }
